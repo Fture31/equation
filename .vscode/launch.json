@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TestCodeGenerator",
+            "request": "launch",
+            "mainClass": "com.example.TestCodeGenerator",
+            "projectName": "equation2degre"
+        },
+        {
+            "type": "java",
+            "name": "TestCodeGenerator",
+            "request": "launch",
+            "mainClass": "com.td.TestCode.TestCodeGenerator",
+            "projectName": "Equation2nd_9943b175"
+        },
+        {
+            "type": "java",
+            "name": "TestCodeGenerator",
+            "request": "launch",
+            "mainClass": "com.td.TestCode.TestCodeGenerator",
+            "projectName": "Equation2nd_53ba0c74"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "QuadraticEquationSolver",
+            "request": "launch",
+            "mainClass": "com.td.equation.QuadraticEquationSolver",
+            "projectName": "QuadraticEquationSolver2_7afa77b5"
+        },
+        {
+            "type": "java",
+            "name": "TestCodeGenerator",
+            "request": "launch",
+            "mainClass": "com.td.utils.TestCodeGenerator",
+            "projectName": "QuadraticEquationSolver2_7afa77b5"
+        }
+    ]
+}
